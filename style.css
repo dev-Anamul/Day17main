@@ -217,10 +217,10 @@ body {
   margin: 0 auto;
 }
 .service__content__box > hr {
-  width: 10%;
+  width: 12%;
   height: 4px;
   background-color: #fff;
-  margin: 0 auto;
+  margin: 8px auto;
 }
 
 .service__heading {
